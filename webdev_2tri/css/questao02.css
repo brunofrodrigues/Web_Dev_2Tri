@@ -1,0 +1,50 @@
+.extremamentebaixo {
+    background-color: darkblue;
+}
+
+.muitobaixo {
+    background-color: mediumblue;
+}
+
+.baixo {
+    background-color: blue;
+}
+
+.ideal {
+    background-color: lime;
+}
+
+.sobrepeso {
+    background-color: yellow;
+}
+
+.obesidadenivel1 {
+    background-color: red;
+}
+
+.obesidadenivel2 {
+    background-color: firebrick;
+}
+
+.obesidadenivel3 {
+    background-color: darkred;
+}
+
+.extremamentebaixo:hover,
+.muitobaixo:hover,
+.baixo:hover,
+.ideal:hover,
+.obesidadenivel1:hover,
+.obesidadenivel2:hover,
+.obesidadenivel3:hover,
+
+table{
+    width: 100%;
+    overflow-x: hidden;
+    table-layout: fixed;
+}
+
+.altura{
+    font-weight: bold;
+    padding: .1em;
+}
