@@ -24,8 +24,7 @@
 
     </main>
     <footer>
-        <p>Bruno Ferreira e Rafaell Maurício - 2023</p>
-
+                <p> Equipe: Bruno Ferreirra e Rafaell Maurício - &copy; 2023</p>
     </footer>
 </body>
 </html>
