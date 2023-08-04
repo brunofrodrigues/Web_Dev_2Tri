@@ -5,7 +5,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Questão 3</title>
-    <link rel="stylesheet" href="../questao03.css" />
+    <link rel="stylesheet" href="./css/questao03.css">
+    <link rel="stylesheet" href="./css/global.css">
     <?php
         $r1 = isset($_GET["r1"]) ? $_GET["r1"] : 0;
         $r2 = isset($_GET["r2"]) ? $_GET["r2"] : 0;
