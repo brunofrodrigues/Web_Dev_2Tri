@@ -99,7 +99,7 @@
 
 
 
-    <p><a href="index.php">Retornar à Página Inicial</a></p>
+    <p><a href="index.php">Retornar a Página Inicial</a></p>
 
     </main>
 
