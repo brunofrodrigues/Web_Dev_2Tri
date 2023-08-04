@@ -1,0 +1,20 @@
+.q3_resp_img {
+    width: .5em;
+    height: .5em;
+}
+
+
+.questionario .div_perguntas .resposta ol .q3_resp {
+    display: flex;
+    align-items: center;
+}
+
+.questionario .div_perguntas .resposta ol a {
+    color: #000;
+    text-decoration: none;
+}
+
+.questionario .div_perguntas .resposta ol #resp {
+    color: #60c90a;
+
+}
