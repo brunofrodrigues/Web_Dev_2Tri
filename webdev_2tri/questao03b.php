@@ -48,9 +48,9 @@
 
         </ol>
 
-        <a href="./questao03.php">Cancelar<a>
+        <a href="questao03.php">Cancelar<a>
         <br>
-        <a href="./index.php">Retornar a Página Inicial</a>
+        <a href="index.php">Retornar a Página Inicial</a>
         </div>
     </main>
     <footer>
