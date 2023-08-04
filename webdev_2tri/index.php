@@ -15,10 +15,10 @@
     <main>
     <h2>Trabalho: Questões</h2>
     <ul>
-        <li><a href="questao1.php">Questão 1</a></li>
-        <li><a href="questao2.php">Questão 2</a></li>
-        <li><a href="questao3.php">Questão 3</a></li>
-        <li><a href="questao4.php">Questão 4</a></li>
+        <li><a href="questao01.php">Questão 1</a></li>
+        <li><a href="questao02.php">Questão 2</a></li>
+        <li><a href="questao03.php">Questão 3</a></li>
+        <li><a href="questao04.php">Questão 4</a></li>
     </ul>
 
 
