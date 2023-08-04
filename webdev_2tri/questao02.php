@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/questao02.css">
     <title>Questão 2</title>
 </head>
 
@@ -71,7 +72,7 @@ m
         </table>
         
         <br>
-        <a href="./index.php">Retornar a Página Inicial</a>
+        <a href="index.php">Retornar a Página Inicial</a>
 
     </main>
 
